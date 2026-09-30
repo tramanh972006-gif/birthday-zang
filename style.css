@@ -317,57 +317,57 @@ body {
 
     .anh-dia {
         width: 220px;
-        left: -10px;
-        top: 160px;
+        left: -20px;
+        top: 140px;
     }
 
     .anh-1 {
         width: 170px;
         height: auto;
-        right: 130px;
-        top: 80px;
+        right: 140px;
+        top: 60px;
     }
 
     .anh-2 {
         width: 250px;
         height: auto;
-        left: 40px;
-        bottom: 160px;
+        left: 30px;
+        bottom: 180px;
     }
 
     .meo {
         width: 90px;
-        top: 90px;
-        left: 10px;
+        top: 70px;
+        left: 1px;
     }
 
     .chuot {
         width: 55px;
-        top: 40px;
-        left: 200px;
+        top: 20px;
+        left: 190px;
     }
 
     .hoa-1 {
         width: 50px;
-        top: 500px;
-        left: 10px;
+        top: 480px;
+        left: 1px;
     }
 
     .hoa-2 {
         width: 50px;
-        bottom: 300px;
-        right: 90px;
+        bottom: 320px;
+        right: 100px;
     }
 
     .sao {
         width: 55px;
-        top: 320px;
-        left: 110px;
+        top: 300px;
+        left: 100px;
     }
 
     .tho {
         width: 100px;
-        bottom: 90px;
-        right: 90px;
+        bottom: 120px;
+        right: 140px;
     }
 }
