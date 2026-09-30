@@ -236,7 +236,7 @@ body {
 }
 
 /* dienthoai */
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     .khungnen {
         width: 90%;
         height: auto;
@@ -306,7 +306,68 @@ body {
     }
 
     .anhnen-1 {
-    width: 500px;
-    margin-left: -90px;
+        width: 500px;
+        margin-left: -90px;
+    }
+
+    .scrapbook {
+        width: 450px;
+        height: 700px;
+    }
+
+    .anh-dia {
+        width: 220px;
+        left: 10px;
+        top: 160px;
+    }
+
+    .anh-1 {
+        width: 170px;
+        height: auto;
+        right: 110px;
+        top: 80px;
+    }
+
+    .anh-2 {
+        width: 250px;
+        height: auto;
+        left: 60px;
+        bottom: 160px;
+    }
+
+    .meo {
+        width: 90px;
+        top: 90px;
+        left: 30px;
+    }
+
+    .chuot {
+        width: 55px;
+        top: 40px;
+        left: 220px;
+    }
+
+    .hoa-1 {
+        width: 50px;
+        top: 500px;
+        left: 30px;
+    }
+
+    .hoa-2 {
+        width: 50px;
+        bottom: 300px;
+        right: 70px;
+    }
+
+    .sao {
+        width: 55px;
+        top: 320px;
+        left: 130px;
+    }
+
+    .tho {
+        width: 100px;
+        bottom: 90px;
+        right: 110px;
     }
 }
