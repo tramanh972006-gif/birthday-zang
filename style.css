@@ -168,22 +168,22 @@ body {
 
 .anh-1 {
     position: absolute;
-    width: 200px;
+    width: 220px;
     height: auto;
-    right: 120px;
-    top: 30px;
+    right: 100px;
+    top: 20px;
     z-index: 3;
     border: 5px solid white;
 }
 
 .anh-2 {
     position: absolute;
-    width: 300px;
+    width: 320px;
     height: auto;
-    left: 150px;
-    bottom: 160px;
+    left: 130px;
+    bottom: 140px;
     z-index: 4;
-    border: 5px solid white;
+    border: 5px solid rgb(39, 98, 208);
 }
 
 .meo {
@@ -322,17 +322,17 @@ body {
     }
 
     .anh-1 {
-        width: 170px;
+        width: 190px;
         height: auto;
         right: 140px;
-        top: 60px;
+        top: 50px;
     }
 
     .anh-2 {
-        width: 250px;
+        width: 260px;
         height: auto;
-        left: 30px;
-        bottom: 180px;
+        left: 25px;
+        bottom: 190px;
     }
 
     .meo {
